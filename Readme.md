@@ -1,7 +1,7 @@
 # 🚀 StreamCommerce: Effortless E-commerce Powered by Streams
 
 ## Architectire Diagram:
-![Architecture Diagram] (./assets/Arch.png)
+![Architecture Diagram](assets/Arch.png)
 
 StreamCommerce, where the power of real-time streams fuels seamless online shopping! 🛒💫
 
